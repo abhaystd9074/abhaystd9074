@@ -17,7 +17,9 @@
 </div>
 
 ## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaystd9074&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaystd9074&layout=compact&theme=radical" />
+</div>
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-gautam-995460239/)  
