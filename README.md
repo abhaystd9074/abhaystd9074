@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhaystd9074&show_icons=true&theme=radical&cache_seconds=86400" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaystd9074&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaystd9074&theme=radical" />
 </div>
 
 ## 🔥 Most Used Languages  
