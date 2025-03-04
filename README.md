@@ -11,14 +11,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhaystd9074&show_icons=true&theme=radical&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaystd9074&theme=radical" />
-</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=abhaystd9074&show_icons=true&theme=radical&cache_seconds=86400" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaystd9074&theme=radical" /></td>
+  </tr>
+</table>
 
 ## 🔥 Most Used Languages  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaystd9074&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaystd9074&layout=compact&theme=radical" />
 </div>
 
 ## 🔗 Connect with Me  
